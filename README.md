@@ -63,5 +63,3 @@
 ![Natchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=natchii59&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchii59&layout=compact&theme=vue-dark&custom_title=My%20Top%20Languages&card_width=450&langs_count=6)
-
-![Natchi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Natchii59&theme=github&custom_title=My%20Contributions)
